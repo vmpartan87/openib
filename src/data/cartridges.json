@@ -1,0 +1,98 @@
+[
+  {
+    "id": "223-rem",
+    "name": ".223 Remington",
+    "caseLength": 44.7,
+    "capacityGrH2O": 30.0,
+    "boreDiameter": 5.56,
+    "grooveDiameter": 5.69,
+    "maxPressureMPa": 430,
+    "defaultCoal": 57.4,
+    "notes": "Approximate values. Capacity varies by brass maker — measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "243-win",
+    "name": ".243 Winchester",
+    "caseLength": 51.94,
+    "capacityGrH2O": 54.0,
+    "boreDiameter": 6.0,
+    "grooveDiameter": 6.17,
+    "maxPressureMPa": 435,
+    "defaultCoal": 68.83,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "65-creedmoor",
+    "name": "6.5 Creedmoor",
+    "caseLength": 48.77,
+    "capacityGrH2O": 52.5,
+    "boreDiameter": 6.5,
+    "grooveDiameter": 6.71,
+    "maxPressureMPa": 435,
+    "defaultCoal": 71.76,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "65x55-se",
+    "name": "6.5×55 SE",
+    "caseLength": 55.0,
+    "capacityGrH2O": 57.5,
+    "boreDiameter": 6.5,
+    "grooveDiameter": 6.71,
+    "maxPressureMPa": 380,
+    "defaultCoal": 80.0,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "308-win",
+    "name": ".308 Winchester",
+    "caseLength": 51.18,
+    "capacityGrH2O": 56.0,
+    "boreDiameter": 7.62,
+    "grooveDiameter": 7.82,
+    "maxPressureMPa": 415,
+    "defaultCoal": 71.12,
+    "notes": "Approximate values. Capacity of common brass ranges about 54–57 gr H2O — measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "30-06",
+    "name": ".30-06 Springfield",
+    "caseLength": 63.35,
+    "capacityGrH2O": 68.0,
+    "boreDiameter": 7.62,
+    "grooveDiameter": 7.82,
+    "maxPressureMPa": 405,
+    "defaultCoal": 84.84,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "300-wm",
+    "name": ".300 Winchester Magnum",
+    "caseLength": 66.55,
+    "capacityGrH2O": 91.0,
+    "boreDiameter": 7.62,
+    "grooveDiameter": 7.82,
+    "maxPressureMPa": 430,
+    "defaultCoal": 84.84,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  },
+  {
+    "id": "93x62",
+    "name": "9.3×62",
+    "caseLength": 62.0,
+    "capacityGrH2O": 77.0,
+    "boreDiameter": 9.0,
+    "grooveDiameter": 9.3,
+    "maxPressureMPa": 390,
+    "defaultCoal": 83.6,
+    "notes": "Approximate values. Measure your own fired cases.",
+    "source": "published"
+  }
+]

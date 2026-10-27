@@ -1,0 +1,82 @@
+[
+  {
+    "id": "example-sb-fast",
+    "name": "Example SB-Fast (illustrative, not a real powder)",
+    "kind": "single-base",
+    "impetus": 1000000,
+    "covolume": 0.001,
+    "gamma": 1.24,
+    "density": 1600,
+    "bulkDensity": 900,
+    "flameTemp": 2900,
+    "burnRate": 10.0,
+    "pressureExponent": 0.9,
+    "form": {
+      "chi": 1.0,
+      "lambda": 0.0,
+      "mu": 0.0
+    },
+    "notes": "Generic extruded single-base powder in the .223 Rem burn-rate class. Parameters are illustrative only. Calibrate against your own chronograph data before use.",
+    "source": "illustrative"
+  },
+  {
+    "id": "example-sb-medium",
+    "name": "Example SB-Medium (illustrative, not a real powder)",
+    "kind": "single-base",
+    "impetus": 1000000,
+    "covolume": 0.001,
+    "gamma": 1.24,
+    "density": 1600,
+    "bulkDensity": 900,
+    "flameTemp": 2900,
+    "burnRate": 8.5,
+    "pressureExponent": 0.9,
+    "form": {
+      "chi": 1.0,
+      "lambda": 0.0,
+      "mu": 0.0
+    },
+    "notes": "Generic extruded single-base powder in the .308 Win burn-rate class. Parameters are illustrative only. Calibrate against your own chronograph data before use.",
+    "source": "illustrative"
+  },
+  {
+    "id": "example-sb-slow",
+    "name": "Example SB-Slow (illustrative, not a real powder)",
+    "kind": "single-base",
+    "impetus": 1000000,
+    "covolume": 0.001,
+    "gamma": 1.24,
+    "density": 1600,
+    "bulkDensity": 900,
+    "flameTemp": 2900,
+    "burnRate": 6.9,
+    "pressureExponent": 0.9,
+    "form": {
+      "chi": 1.0,
+      "lambda": 0.0,
+      "mu": 0.0
+    },
+    "notes": "Generic extruded single-base powder in the magnum / heavy-bullet burn-rate class. Parameters are illustrative only. Calibrate against your own chronograph data before use.",
+    "source": "illustrative"
+  },
+  {
+    "id": "example-db-ball",
+    "name": "Example DB-Ball (illustrative, not a real powder)",
+    "kind": "double-base",
+    "impetus": 1080000,
+    "covolume": 0.001,
+    "gamma": 1.23,
+    "density": 1620,
+    "bulkDensity": 1000,
+    "flameTemp": 3200,
+    "burnRate": 6.8,
+    "pressureExponent": 0.9,
+    "form": {
+      "chi": 1.15,
+      "lambda": -0.130435,
+      "mu": 0.0
+    },
+    "notes": "Generic deterred spherical double-base powder. Degressive form function. Parameters are illustrative only. Calibrate against your own chronograph data before use.",
+    "source": "illustrative"
+  }
+]

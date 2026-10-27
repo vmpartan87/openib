@@ -1,0 +1,22 @@
+{
+  "name": "openib",
+  "version": "0.1.0",
+  "description": "Open-source interior ballistics simulator for handloaders (browser app)",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc",
+    "tune": "tsx scripts/tune.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  },
+  "private": true,
+  "type": "module"
+}

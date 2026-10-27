@@ -1,0 +1,12 @@
+[
+  { "id": "224-55-fmj", "name": ".224 55 gr FMJ-BT (generic)", "diameter": 5.69, "massGr": 55, "length": 18.9, "source": "illustrative" },
+  { "id": "224-77-hpbt", "name": ".224 77 gr HPBT match (generic)", "diameter": 5.69, "massGr": 77, "length": 25.0, "source": "illustrative" },
+  { "id": "243-100-sp", "name": ".243 100 gr SP (generic)", "diameter": 6.17, "massGr": 100, "length": 27.5, "source": "illustrative" },
+  { "id": "264-120-hpbt", "name": ".264 120 gr HPBT (generic)", "diameter": 6.71, "massGr": 120, "length": 31.0, "source": "illustrative" },
+  { "id": "264-140-hpbt", "name": ".264 140 gr HPBT match (generic)", "diameter": 6.71, "massGr": 140, "length": 35.5, "source": "illustrative" },
+  { "id": "308-150-sp", "name": ".308 150 gr SP (generic)", "diameter": 7.82, "massGr": 150, "length": 28.5, "source": "illustrative" },
+  { "id": "308-168-hpbt", "name": ".308 168 gr HPBT match (generic)", "diameter": 7.82, "massGr": 168, "length": 31.2, "source": "illustrative" },
+  { "id": "308-180-sp", "name": ".308 180 gr SP (generic)", "diameter": 7.82, "massGr": 180, "length": 31.5, "source": "illustrative" },
+  { "id": "308-200-hpbt", "name": ".308 200 gr HPBT (generic)", "diameter": 7.82, "massGr": 200, "length": 36.0, "source": "illustrative" },
+  { "id": "366-285-sp", "name": ".366 285 gr SP (generic)", "diameter": 9.30, "massGr": 285, "length": 31.0, "source": "illustrative" }
+]
